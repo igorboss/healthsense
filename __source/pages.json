@@ -1,0 +1,566 @@
+[ {
+  "code" : "6f4ed413-051f-4857-98cf-0b3f3ef1cd66",
+  "contents" : [ {
+    "name" : "Procedures",
+    "slug" : "procedures",
+    "lang" : "en",
+    "contentType" : "markdown",
+    "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+  } ],
+  "children" : [ {
+    "code" : "de535f6b-4ebf-43f3-bceb-4fddb230e259",
+    "contents" : [ {
+      "name" : "Laboratoorne uuring",
+      "slug" : "laboratoorne-uuring",
+      "lang" : "et",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    }, {
+      "name" : "Laboratory tests",
+      "slug" : "laboratory-tests",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    } ],
+    "children" : [ {
+      "code" : "ac1a1a50-ee94-47ef-b037-ed8b827bf6ed",
+      "contents" : [ {
+        "name" : "Cytologic test",
+        "slug" : "cytologic-test",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Tsütoloogia",
+        "slug" : "tsutoloogia",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-10-30T10:23:22.175011Z"
+      } ]
+    } ]
+  }, {
+    "code" : "1c62c082-8fb4-47e3-b474-85a79c04a5bf",
+    "contents" : [ {
+      "name" : "Imaging procedures",
+      "slug" : "imaging-procedures",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    }, {
+      "name" : "Piltuuringud",
+      "slug" : "piltuuringud",
+      "lang" : "et",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    } ],
+    "children" : [ {
+      "code" : "cebdcd73-c6bb-4fc0-a23d-888ea040c0ed",
+      "contents" : [ {
+        "name" : "MRI",
+        "slug" : "mri",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "MTU",
+        "slug" : "mtu",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-24T15:50:24.953346Z"
+      } ]
+    }, {
+      "code" : "cdf652bc-9724-461b-8fa2-788e6110939d",
+      "contents" : [ {
+        "name" : "Mammograafia",
+        "slug" : "mammograafia",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-24T15:58:05.014168Z"
+      }, {
+        "name" : "Mammography",
+        "slug" : "mammography",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    }, {
+      "code" : "da589def-1fad-42f7-81e8-10ae26d77dff",
+      "contents" : [ {
+        "name" : "Ultraheli",
+        "slug" : "ultraheli",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Ultrasonography",
+        "slug" : "ultrasonography",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    } ]
+  }, {
+    "code" : "daa385d2-290f-432b-88c7-92d62ca35a54",
+    "contents" : [ {
+      "name" : "Drug therapy",
+      "slug" : "drug-therapy",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    }, {
+      "name" : "Ravimteraapia",
+      "slug" : "ravimteraapia",
+      "lang" : "et",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    } ],
+    "children" : [ {
+      "code" : "cb00a0c8-3a87-4c6f-908b-6de61b0f02bd",
+      "contents" : [ {
+        "name" : "Hormone replacement therapy",
+        "slug" : "hormone-replacement-therapy",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Hormoonasendusravi",
+        "slug" : "hormoonasendusravi",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    } ]
+  }, {
+    "code" : "6663d360-b45b-406b-b563-027d61d6c363",
+    "contents" : [ {
+      "name" : "Kolposkoopia",
+      "slug" : "kolposkoopia",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    } ]
+  } ]
+}, {
+  "code" : "e47a97c0-63f3-454f-8571-008504c5c297",
+  "contents" : [ {
+    "name" : "Actor",
+    "slug" : "actor",
+    "lang" : "en",
+    "contentType" : "markdown",
+    "modifiedAt" : "2023-07-17T18:16:57.198626Z"
+  }, {
+    "name" : "Osalejad",
+    "slug" : "osalejad",
+    "lang" : "et",
+    "contentType" : "markdown",
+    "modifiedAt" : "2023-07-17T18:18:13.838314Z"
+  } ],
+  "children" : [ {
+    "code" : "f398a6c8-7eb4-4741-b304-fe0b4c5a0714",
+    "contents" : [ {
+      "name" : "Practitioner",
+      "slug" : "practitioner",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-17T18:19:17.409743Z"
+    }, {
+      "name" : "Tervishoiu spetsialist",
+      "slug" : "tervishoiu-spetsialist",
+      "lang" : "et",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-17T18:20:31.815247Z"
+    } ],
+    "children" : [ {
+      "code" : "284cc56d-2045-4d06-a2ea-12d0b885a199",
+      "contents" : [ {
+        "name" : "Arst",
+        "slug" : "arst",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-17T18:58:25.773528Z"
+      }, {
+        "name" : "Doctor",
+        "slug" : "doctor",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-17T18:25:50.25313Z"
+      } ],
+      "children" : [ {
+        "code" : "29bd2ae4-0733-4b7e-98ca-1c42340bd69a",
+        "contents" : [ {
+          "name" : "General practitioner",
+          "slug" : "general-practitioner",
+          "lang" : "en",
+          "contentType" : "markdown",
+          "modifiedAt" : "2023-07-17T18:21:17.975584Z"
+        }, {
+          "name" : "Perearst",
+          "slug" : "perearst",
+          "lang" : "et",
+          "contentType" : "markdown",
+          "modifiedAt" : "2023-07-17T18:47:06.074586Z"
+        } ]
+      }, {
+        "code" : "7cf03d1e-17de-42ac-8f12-93be40b8e1a2",
+        "contents" : [ {
+          "name" : "Eriarst",
+          "slug" : "eriarst",
+          "lang" : "et",
+          "contentType" : "markdown",
+          "modifiedAt" : "2023-07-17T18:43:31.36441Z"
+        }, {
+          "name" : "Special care doctor",
+          "slug" : "special-care-doctor",
+          "lang" : "en",
+          "contentType" : "markdown",
+          "modifiedAt" : "2023-07-17T18:29:19.319367Z"
+        } ]
+      } ]
+    }, {
+      "code" : "c6b8c1be-ce6d-4e68-91ac-4299a70aee33",
+      "contents" : [ {
+        "name" : "Nurse",
+        "slug" : "nurse",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-17T18:21:56.778353Z"
+      }, {
+        "name" : "Õde",
+        "slug" : "ode",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-17T18:51:46.701642Z"
+      } ]
+    } ]
+  }, {
+    "code" : "35873dcc-0a03-442a-8f00-ad8f81d01fc0",
+    "contents" : [ {
+      "name" : "Patient",
+      "slug" : "patient",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-17T18:58:09.484969Z"
+    }, {
+      "name" : "Patsient",
+      "slug" : "patsient",
+      "lang" : "et",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-17T18:57:38.004318Z"
+    } ]
+  } ]
+}, {
+  "code" : "ae1a3595-5dbb-4c1a-a316-570d1a2e92c2",
+  "contents" : [ {
+    "name" : "Näitajad ja faktid",
+    "slug" : "naitajad-ja-faktid",
+    "lang" : "et",
+    "contentType" : "markdown",
+    "modifiedAt" : "2023-07-17T19:01:18.126562Z"
+  }, {
+    "name" : "Observations",
+    "slug" : "observations",
+    "lang" : "en",
+    "contentType" : "markdown",
+    "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+  } ],
+  "children" : [ {
+    "code" : "1a167861-bd7c-4a5a-b1f9-5fde331bec3c",
+    "contents" : [ {
+      "name" : "Demograafilised näitajad",
+      "slug" : "demograafilised-naitajad",
+      "lang" : "et",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    }, {
+      "name" : "Demographic history observations",
+      "slug" : "demographic-history-observations",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    } ],
+    "children" : [ {
+      "code" : "abd9e49d-ede4-4356-825b-9a481eeccca3",
+      "contents" : [ {
+        "name" : "Date of death",
+        "slug" : "date-of-death",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Surmakuupäev",
+        "slug" : "surmakuupaev",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    }, {
+      "code" : "656698a0-222c-4801-8e77-8accda3eac31",
+      "contents" : [ {
+        "name" : "Date of birth",
+        "slug" : "date-of-birth",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Sünnikuupäev",
+        "slug" : "sunnikuupaev",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    }, {
+      "code" : "88fe343f-ff15-4bdc-9e3f-1ef42cfa72cb",
+      "contents" : [ {
+        "name" : "Surmakellaaeg",
+        "slug" : "surmakellaaeg",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Time of death",
+        "slug" : "time-of-death",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    } ]
+  }, {
+    "code" : "005e5f58-21e7-4bb7-a1da-8d12031c40f8",
+    "contents" : [ {
+      "name" : "Elulised näitajad",
+      "slug" : "elulised-naitajad",
+      "lang" : "et",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-17T19:01:47.152619Z"
+    }, {
+      "name" : "Vital signs",
+      "slug" : "vital-signs",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    } ],
+    "children" : [ {
+      "code" : "f7a04665-39d4-4022-afab-7299236cd1f2",
+      "contents" : [ {
+        "name" : "Blood pressure",
+        "slug" : "blood-pressure",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Vererõhk",
+        "slug" : "vererohk",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-09-22T11:35:44.509414Z"
+      } ]
+    }, {
+      "code" : "6ad37db2-f4d1-492b-a002-3f23a6dbd3c9",
+      "contents" : [ {
+        "name" : "Suitsetamine",
+        "slug" : "suitsetamine",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-08-26T10:28:23.561527Z"
+      }, {
+        "name" : "Tobacco use",
+        "slug" : "tobacco-use",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-08-28T10:24:01.239294Z"
+      } ]
+    }, {
+      "code" : "5259799f-8448-47f1-b8d3-fa08896c1aa0",
+      "contents" : [ {
+        "name" : "Temperature",
+        "slug" : "temperature",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Temperatuur",
+        "slug" : "temperatuur",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    }, {
+      "code" : "f70623ac-366d-4ca5-a9a7-3b71565f9337",
+      "contents" : [ {
+        "name" : "Blood oxygen level",
+        "slug" : "blood-oxygen-level",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    } ]
+  }, {
+    "code" : "b5c8b594-1557-4222-9850-a57f63b54133",
+    "contents" : [ {
+      "name" : "Cancer observations",
+      "slug" : "cancer-observations",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    } ],
+    "children" : [ {
+      "code" : "cbf8ad84-3d06-4786-8ed4-5203fb829db4",
+      "contents" : [ {
+        "name" : "Hormone replacement therapy started",
+        "slug" : "hormone-replacement-therapy-started",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Hormoonasenduseravi algus",
+        "slug" : "hormoonasenduseravi-algus",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    } ]
+  }, {
+    "code" : "b4b68a48-c5d0-4ca3-a3e5-57532fd45e43",
+    "contents" : [ {
+      "name" : "Obsteric observations",
+      "slug" : "obsteric-observations",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    }, {
+      "name" : "Sünnitusabi",
+      "slug" : "sunnitusabi",
+      "lang" : "et",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    } ],
+    "children" : [ {
+      "code" : "b6759bc9-53b9-4452-b38d-57ac821bc4ef",
+      "contents" : [ {
+        "name" : "Age at menarche",
+        "slug" : "age-at-menarche",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Menarhe vanus",
+        "slug" : "menarhe-vanus",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    }, {
+      "code" : "3f959653-7d95-429b-95d9-18e494c3e4b8",
+      "contents" : [ {
+        "name" : "Number of previous pregnancies",
+        "slug" : "number-of-previous-pregnancies",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Raseduste arv",
+        "slug" : "raseduste-arv",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    }, {
+      "code" : "a35e1829-11a6-409a-bd01-90814950a50f",
+      "contents" : [ {
+        "name" : "Number of previous birth",
+        "slug" : "number-of-previous-birth",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Sünnituste arv",
+        "slug" : "sunnituste-arv",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    }, {
+      "code" : "a6ab031a-1cfc-4547-805c-b272268c4689",
+      "contents" : [ {
+        "name" : "Age at onset of menopause",
+        "slug" : "age-at-onset-of-menopause",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Menopausi vanus",
+        "slug" : "menopausi-vanus",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    }, {
+      "code" : "90c85114-1d5b-446e-a5a1-e88d9d6d3a92",
+      "contents" : [ {
+        "name" : "Время рождения",
+        "slug" : "",
+        "lang" : "ru",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Sünnituse aeg",
+        "slug" : "sunnituse-aeg",
+        "lang" : "et",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      }, {
+        "name" : "Time of delivery",
+        "slug" : "time-of-delivery",
+        "lang" : "en",
+        "contentType" : "markdown",
+        "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+      } ]
+    } ]
+  } ]
+}, {
+  "code" : "e7dac022-b180-48a3-98ea-ac2f0210f009",
+  "contents" : [ {
+    "name" : "Faktide ajalugu",
+    "slug" : "faktide-ajalugu",
+    "lang" : "et",
+    "contentType" : "markdown",
+    "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+  }, {
+    "name" : "History of ",
+    "slug" : "history-of",
+    "lang" : "en",
+    "contentType" : "markdown",
+    "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+  } ],
+  "children" : [ {
+    "code" : "b166ab30-dfe1-42c6-9063-7e1da0bc86df",
+    "contents" : [ {
+      "name" : "History of cancer",
+      "slug" : "history-of-cancer",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    }, {
+      "name" : "Vähianamnees",
+      "slug" : "vahianamnees",
+      "lang" : "et",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    } ]
+  }, {
+    "code" : "191c5417-4225-4d9b-937b-d2d65217843a",
+    "contents" : [ {
+      "name" : "Family history of cancer",
+      "slug" : "family-history-of-cancer",
+      "lang" : "en",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    }, {
+      "name" : "Patsiendi pere vähi haigustamise ajalugu",
+      "slug" : "patsiendi-pere-vahi-haigustamise-ajalugu",
+      "lang" : "et",
+      "contentType" : "markdown",
+      "modifiedAt" : "2023-07-13T10:11:22.552427Z"
+    } ]
+  } ]
+} ]

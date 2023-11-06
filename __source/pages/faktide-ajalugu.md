@@ -1,0 +1,1 @@
+Olukorrad kirjeldavad mõne faktide varasemat ajalugu. 

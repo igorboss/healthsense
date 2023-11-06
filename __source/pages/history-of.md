@@ -1,0 +1,1 @@
+Situations describe previous history of the some facts

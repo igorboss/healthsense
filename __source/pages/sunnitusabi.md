@@ -1,0 +1,1 @@
+See sektsioon sisaldab raseduse ja sünnitusega seotud näitajaid ja mõõtmisi.
