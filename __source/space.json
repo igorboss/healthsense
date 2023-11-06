@@ -1,17 +1,7 @@
 {
-  "id" : 8211118,
+  "web" : "https://termx.kodality.dev",
   "code" : "healthsense",
   "names" : {
     "en" : "HealthSense"
-  },
-  "active" : true,
-  "shared" : false,
-  "integration" : {
-    "github" : {
-      "repo" : "igorboss/healthsense",
-      "dirs" : {
-        "wiki-ssg" : "__source"
-      }
-    }
   }
 }
