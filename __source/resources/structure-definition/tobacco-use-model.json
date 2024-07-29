@@ -1,0 +1,97 @@
+{
+  "resourceType": "StructureDefinition",
+  "id": "TobaccoUseModel",
+  "url": "http://example.org/StructureDefinition/TobaccoUseModel",
+  "name": "TobaccoUseModel",
+  "status": "active",
+  "fhirVersion": "4.0.1",
+  "mapping": [
+    {
+      "identity": "rim",
+      "uri": "http://hl7.org/v3",
+      "name": "RIM Mapping"
+    }
+  ],
+  "kind": "logical",
+  "abstract": false,
+  "type": "http://example.org/StructureDefinition/TobaccoUseModel",
+  "baseDefinition": "http://hl7.org/fhir/StructureDefinition/Element",
+  "derivation": "specialization",
+  "differential": {
+    "element": [
+      {
+        "id": "TobaccoUseModel",
+        "path": "TobaccoUseModel"
+      },
+      {
+        "definition": "Subject of procedure.",
+        "id": "TobaccoUseModel.patsient",
+        "max": "1",
+        "min": 1,
+        "path": "TobaccoUseModel.patsient",
+        "short": "Patient identifier",
+        "type": [
+          {
+            "code": "string"
+          }
+        ]
+      },
+      {
+        "definition": "When the observation was measured.",
+        "id": "TobaccoUseModel.aeg",
+        "max": "1",
+        "min": 1,
+        "path": "TobaccoUseModel.aeg",
+        "short": "Effective time",
+        "type": [
+          {
+            "code": "dateTime"
+          }
+        ]
+      },
+      {
+        "definition": "Practitioner requested information",
+        "id": "TobaccoUseModel.labiviija",
+        "max": "1",
+        "min": 0,
+        "path": "TobaccoUseModel.labiviija",
+        "short": "Practitioner identifier",
+        "type": [
+          {
+            "code": "string"
+          }
+        ]
+      },
+      {
+        "binding": {
+          "strength": "required",
+          "valueSet": "https://ig.kodality.dev/healthsense/ValueSet-hs-tobacco-user.json"
+        },
+        "definition": "The actual coded result of observation.",
+        "id": "TobaccoUseModel.tulemus",
+        "max": "1",
+        "min": 1,
+        "path": "TobaccoUseModel.tulemus",
+        "short": "The actual SNOMED code as observation result.",
+        "type": [
+          {
+            "code": "code"
+          }
+        ]
+      },
+      {
+        "definition": "Comments about the observation or the results.",
+        "id": "TobaccoUseModel.kommentaar",
+        "max": "1",
+        "min": 0,
+        "path": "TobaccoUseModel.kommentaar",
+        "short": "Comments about the observation",
+        "type": [
+          {
+            "code": "string"
+          }
+        ]
+      }
+    ]
+  }
+}
